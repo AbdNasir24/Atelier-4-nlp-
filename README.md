@@ -1,6 +1,8 @@
 Final Report :
 Comprehensive NLP Project Using PyTorch
+
 Objective
+
 The main goal of this lab was to gain hands-on experience with various NLP models using the PyTorch library. This comprehensive project was divided into three parts:
 
 Classification Regression with RNNs
