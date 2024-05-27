@@ -1,4 +1,3 @@
-# Atelier-4-nlp-
 Final Report :
 Comprehensive NLP Project Using PyTorch
 Objective
