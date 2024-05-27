@@ -1,5 +1,4 @@
-Final Report :
-Comprehensive NLP Project Using PyTorch
+Final Report: Comprehensive NLP Project Using PyTorch
 
 Objective
 
